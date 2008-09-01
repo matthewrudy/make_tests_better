@@ -1,0 +1,29 @@
+MakeTestsBetter
+===============
+
+Tired of writing bad code?
+Finding it tough to maintain your test suite?
+Maybe, just maybe, TestsBetter can help you get through it.
+
+Using cutting edge debugging tricks,
+and AI patterns developed by the military,
+MakeTestsBetter will transform your Test::Unit suite with only a few keypresses.
+
+"rake away the pain!"
+
+Example
+=======
+
+got a failing test???
+
+>> ruby script/plugin install git://github.com/matthewrudy/make_tests_better
+
+and a quick
+
+ >> rake test BETTER=true
+or
+ >> rake test:better
+
+and your troubles will be no more.
+
+Copyright (c) 2008 [Matthew Rudy Jacobs], released under the MIT license
